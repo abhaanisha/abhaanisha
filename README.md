@@ -99,7 +99,6 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
       <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
@@ -163,18 +162,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaanisha&show_icons=true&theme=dark&rank_icon=github&border_radius=10" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaanisha&layout=compact&theme=dark&border_radius=10" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abhaanisha&show_icons=true&theme=dark&border_radius=10" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhaanisha&layout=compact&theme=dark&border_radius=10" height="165" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaanisha&theme=dark&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abhaanisha&theme=dark&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/abhaanisha">
-    <img src="https://visitcount.itsvg.in/api?id=abhaanisha&icon=8&color=5" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=abhaanisha&label=Profile%20Views&color=0077b5&style=flat-square" alt="Profile Views" />
   <br/><br/>
   <i>“In learning you will teach, and in teaching you will learn.” ― Phil Collins</i>
 </div>
